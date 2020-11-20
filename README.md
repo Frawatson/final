@@ -34,7 +34,7 @@ void appendFiles(char src[], char dest[])
 
 int main(int argc, char* argv[argc + 1])
 {
-    char src[] = "file.txt", dest[] = "count.c";
+    char src[] = "file.wat", dest[] = "count.c";
  
     appendFiles(src, dest);
  
